@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://faibuafei.infutronix.com/sitemap.xml
